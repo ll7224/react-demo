@@ -1,0 +1,52 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id": 1,
+			"title": "社会热点",
+			"imgUrl": "//upload.jianshu.io/collections/images/261938/man-hands-reading-boy-large.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}, {
+			"id": 2,
+			"title": "手绘",
+			"imgUrl": "http://upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "最火的表白神器，不懂电脑的女生无法拒绝！",
+			"desc": "找对象似乎成了很多小伙伴的头等难题，随着年龄的增长，愈发感到着急。最近有小伙伴在某小视频软件上看到了一个表白神器，一边是同意作XX的女朋友，一边...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/1780541-89193ec276f56848?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"title": "喜欢看书的朋友，只一款不可多得的APP",
+			"desc": "藏书馆.cangshuguan藏书馆 这个软件是免费的，免费的，免费的书书书书 里面有5万多本书呢 生活还是简单点好 只推荐一款APP 够用就行...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/13313488-d63711adffff1601.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 3,
+			"title": "我的半年技术博客之路",
+			"desc": "我写作的初心 做 IT或者程序员工作的我们都知道（其实不只限于IT，我想其他行业也是如此），平时的学习工作过程中，难免会遇到各种问题需要查资料的..",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/9824247-2483d67280bf38cf.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 4,
+			"title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+        "recommendList":[{
+            "id": 1,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+        },{
+            "id": 2,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+        },{
+            "id": 3,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        },{
+            "id": 4,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+    
+        },{
+            "id": 5,
+            "imgUrl":"http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }]
+	}
+}
